@@ -5,3 +5,14 @@
 通过学习这个repository，假设你已经对redux有初步的使用经验和对FP(函数式编程)已经有一定的了解，那么你可以在1个小时内，对redux有更深层次的了解，同时实现middleware功能。
 
 假如你认为这个repository对你有帮助，请给个star吧！谢谢。
+
+----------------------------------------------------------
+
+使用方式：
+npm install 
+npm start
+
+运行地址：http://localhost:3000/
+
+edited by Bertie
+2017.5.18
